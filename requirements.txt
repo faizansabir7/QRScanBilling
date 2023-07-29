@@ -1,0 +1,7 @@
+csv
+sys
+cv2
+pyzbar
+datetime
+prettytable
+pyttsx3
